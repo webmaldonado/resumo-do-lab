@@ -7,7 +7,7 @@ Nesse laboratório eu aprendi a navegar pelo portal da Azure e conhecer as categ
 ```
 
 ### Benefícios da Nuvem
-*** Tempo do Vídeo: 17:39 ***
+Tempo do Vídeo:17:39
 ```
 Nessa aula foi apresentado o primeiro benefício da Nuvem que foi a alta disponibilidade, benefício esse que tem o principal tema o SLA (Service Level Agreements) que pode escolher entre:
 - 99%
