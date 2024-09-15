@@ -39,5 +39,5 @@ Nesta aula foi apresentado os seguintes benefícios:
 - Governança
   Esse benefício trata da Governança dos recursos, com o aumento dos recursos você pode perder o controle e acabar com gastos desnecessários, então você precisa adotar regras e boas práticas para a Governança desse ambiente.
 - Gerenciabilidade
-  
+  A Microsoft Azure disponibiliza ferramentas fáceis e eficientes para controlar e administrar todos os recursos da Nuvem.
 ```
