@@ -24,3 +24,13 @@ Tempo do Vídeo: 07:41
 - Elasticidade
   Como complemento a Escalabilidade, a Elasticidade é a característica que torna dinâmica o benefício da Escalabilidade, os  serviços podem aumentar e diminuir conforme a necessidade do serviço,  esse processo automático pode ocorrer conforme métricas previamente configuradas.
 ```
+### Benefícios da Nuvem - Confiabilidade, Previsibilidade e Segurança 
+```
+Nesta aula foi apresentado os seguintes benefícios:
+- Confiabilidade
+  Esse benefício está relacionado diretamente com a forma que a Nuvem trabalha de forma descentralizada, isso permite que recursos sejam criados em diversos partes do mundo, agrupados de forma inteligente, desta forma pode permitir que sua aplicação tenha uma alta disponibilidade e consequentemente a Confiabilidade.
+- Previsibilidade
+
+- Segurança
+
+```
