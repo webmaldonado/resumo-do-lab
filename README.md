@@ -30,7 +30,7 @@ Nesta aula foi apresentado os seguintes benefícios:
 - Confiabilidade
   Esse benefício está relacionado diretamente com a forma que a Nuvem trabalha de forma descentralizada, isso permite que recursos sejam criados em diversos partes do mundo, agrupados de forma inteligente, desta forma pode permitir que sua aplicação tenha uma alta disponibilidade e consequentemente a Confiabilidade.
 - Previsibilidade
-
+  A Previsibilidade permite avançar com confiança na nuvem, seja no desempenho ou no custo
 - Segurança
 
 ```
