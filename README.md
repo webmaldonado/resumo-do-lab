@@ -34,3 +34,10 @@ Nesta aula foi apresentado os seguintes benefícios:
 - Segurança
   A Nuvem trabalha com o conceito de segurança compartilhada, ou seja, a Microsoft é o cliente tem papéis e responsabilidades fundamentais para que esse benefício seja cumprido. A Microsoft disponibiliza diversas ferramentas mas o cliente precisa implementar. Por exemplo,  se você tem um recurso IaaS vai ser sua responsabilidade aplicar os pacotes de atualização em seu sistema operacional,  mas caso você esteja utilizando um PaaS ou SaaS, a aplicação desses pacotes ficam por conta da Microsoft.
 ```
+### Benefícios da Nuvem - Governança e Gerenciabilidade 
+```
+- Governança
+  Esse benefício trata da Governança dos recursos, com o aumento dos recursos você pode perder o controle e acabar com gastos desnecessários, então você precisa adotar regras e boas práticas para a Governança desse ambiente.
+- Gerenciabilidade
+  
+```
