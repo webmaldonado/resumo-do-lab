@@ -43,3 +43,15 @@ Tempo do Vídeo: 11:49
 - Gerenciabilidade
   A Microsoft Azure disponibiliza ferramentas fáceis e eficientes para controlar e administrar todos os recursos da Nuvem.
 ```
+### Tipos de serviços de Nuvem na Azure 
+Nesse módulo vai ser apresentado os principais tipos de serviços na nuvem que todos os provedores possuem. 
+
+### IaaS, PaaS e SaaS na Azure
+Tempo do Vídeo: 12:14
+```
+- IaaS
+  É o tipo de serviço na nuvem mais utilizado, nesse modelo o cliente tem total controle sobre o recurso, e total responsabilidade também. Os principais serviços nesse modelo é as máquinas virtuais e os discos de armazenamento.
+- PaaS
+
+- SaaS
+```
