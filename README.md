@@ -52,6 +52,6 @@ Tempo do Vídeo: 12:14
 - IaaS
   É o tipo de serviço na nuvem mais utilizado, nesse modelo o cliente tem total controle sobre o recurso, e total responsabilidade também. Os principais serviços nesse modelo é as máquinas virtuais e os discos de armazenamento.
 - PaaS
-
+  Este tipo de serviço você se preocupa com o seu software, deixando toda parte de infra e sistema operacional com a azure.
 - SaaS
 ```
