@@ -56,3 +56,8 @@ Tempo do Vídeo: 12:14
 - SaaS
   Ja este tipo de serviço você não se preocupa com infraestrutura, sistema operacional e software,  você para pela utilização do serviço. 
 ```
+### Modelo de Responsabilidade Compartilhada
+Tempo do Vídeo: 09:26
+```
+Os provedores de Nuvem trabalham com modelos de responsabilidade compartilhada entre o provedor e o cliente. A responsabilidade pode variar de acordo com o tipo de serviço contratado .
+```
