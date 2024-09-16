@@ -1,4 +1,4 @@
-# resumo-do-lab
+# CONCEITOS INICIAIS DE CLOUD COM AZURE
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO no bootcamp Microsoft Azure Essentials.
 
 ### Microsoft Azure - Localizando Serviços por Categoria 
