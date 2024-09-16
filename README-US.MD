@@ -6,18 +6,18 @@ This repository contains the resum of leasons learned during the lab developer D
 These laboratory i learning to navigate azure portal and to know services categories. I did praticing at configuration menu and i get alter the portal language and your default theme.
 ```
 
-### Benefícios da Nuvem - Disponibilidade 
-Tempo do Vídeo:17:39
+### Beneficts of Cloud - Availability 
+Video Time: 17:39
 ```
-Nessa aula foi apresentado o primeiro benefício da Nuvem que foi a alta disponibilidade, benefício esse que tem o principal tema o SLA (Service Level Agreements) que pode escolher entre:
+This class did go show me the first benefit of cloud it's Availability, benefict it's have the SLA as main theme with choice below:
 - 99%
 - 99.5%
 - 99.9%
 - 99.99%
-O cálculo de horas de indisponibilidade pode variar conforme o serviço contratado, caso a SLA não seja cumprida, a Microsoft disponibiliza créditos na fatura referente ao valor que ultrapassar a SLA.
+The unavaliable's hours calcule can variable according the contracted service, case the SLA do not fulfilled, the Microsoft makes avaliable credits in your invoice reference the value with to exceed SLA.
 ```
-### Benefícios da Nuvem - Escalabilidade e Elasticidade 
-Tempo do Vídeo: 07:41
+### Beneficts of Cloud - Escalability and Elasticity 
+Video Time: 07:41
 ```
 - Escalabilidade
   A Nuvem proporciona escalabilidade horizontal e vertical para que você possa aumentar seus recursos de forma rápida e imediata sem a necessidade do processo tradicional burocrático.
