@@ -61,3 +61,8 @@ Tempo do Vídeo: 09:26
 ```
 Os provedores de Nuvem trabalham com modelos de responsabilidade compartilhada entre o provedor e o cliente. A responsabilidade pode variar de acordo com o tipo de serviço contratado .
 ```
+### Tipos de serviços de Nuvem - Revisão 
+Tempo do Vídeo: 03:10 
+```
+Neste vídeo temos um resumo sobre os principais pontos do módulo,  onde somos apresentados aos conceitos de Iaas, PaaS e SaaS. Em seguida tratamos do modelo de responsabilidade compartilhada de acordo com o tipo de serviço contratado .
+```
