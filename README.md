@@ -54,4 +54,5 @@ Tempo do Vídeo: 12:14
 - PaaS
   Este tipo de serviço você se preocupa com o seu software, deixando toda parte de infra e sistema operacional com a azure.
 - SaaS
+  Ja este tipo de serviço você não se preocupa com infraestrutura, sistema operacional e software,  você para pela utilização do serviço. 
 ```
